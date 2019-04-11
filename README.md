@@ -1,4 +1,2 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
-# __graphql-lyrical
-# __graphql-lyrical
+A project of the excellent course "GraphQL with React: The Complete Developers Guide" by @StephenGrider
